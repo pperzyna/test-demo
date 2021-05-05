@@ -1,0 +1,1 @@
+FROM adoptopenjdk/openjdk11:jre-11.0.10_9-alpine@sha256:def864ee30f6657d781712ffbef162ce5b1aaeeb963e6faa1732de7e71287083
